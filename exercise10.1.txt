@@ -1,0 +1,4 @@
+In Python you can store values in variables.
+In Python you can loop over a list with a for loop.
+In Python you can write reusable code with functions.
+In Python you can read and write files using pathlib.
